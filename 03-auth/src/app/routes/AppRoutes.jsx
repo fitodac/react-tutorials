@@ -1,3 +1,6 @@
+/**
+ * Este es el ruter de la sección App
+ */
 import { 
 	Routes,
 	Route,

@@ -1,3 +1,8 @@
+/**
+ * Esta es una simple página de ejemplo a la 
+ * que solo puedes acceder si estás autenticado
+ */
+
 export const Page2 = () => {
 	return (
 		<>
