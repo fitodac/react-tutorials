@@ -1,0 +1,1 @@
+export const submitForm = ({form, setSignUp}) => setSignUp(form)
